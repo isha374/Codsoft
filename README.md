@@ -6,5 +6,7 @@ Internship Highlights
 During my time at CodSoft, I had the opportunity to work on a variety of AI projects that enhanced my understanding of machine learning, natural language processing, and computer vision. Here are some highlights:
 
 Project 1: tictactoe.py 
+
 Project 2: chatbot.py 
-Project 3:
+
+Project 3: Facial Verification with a Siamese Network - Final.ipynb 
