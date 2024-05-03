@@ -9,4 +9,4 @@ Task 1: chatbot.py
 
 Task 2: tictactoe.py 
 
-Task 5: Facial Verification with a Siamese Network - Final.ipynb 
+Task 5: Facial detection.ipynb
